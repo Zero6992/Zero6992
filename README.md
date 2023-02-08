@@ -12,4 +12,4 @@ I'm a computer science student from Taiwan, enjoy being part of the open-source 
 
 + 💬 Be free to ask me about anything [here](https://github.com/Zero6992/Zero6992/issues)
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Zero6992&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Zero6992&show_icons=true&theme=tokyonight&include_all_commits=true"/>
