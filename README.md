@@ -8,7 +8,7 @@ I'm a computer science student from Taiwan, enjoy being part of the open-source 
 
 + :airplane: I enjoy traveling, Japan is my favorite
 
-+ :mailbox: How to reach me zero6992@gmail.com
++ :mailbox: How to reach me zero69992@gmail.com
 
 + 💬 Be free to ask me about anything [here](https://github.com/Zero6992/Zero6992/issues)
 
