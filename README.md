@@ -5,4 +5,4 @@
 
 + Ask me anything [here](https://github.com/Zero6992/Zero6992/issues)
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=Zero6992&show_icons=true&theme=aura&include_all_commits=true&hide_rank=true"/>
+<img align="right" width="230" src="https://github-stats-extended.vercel.app/api?username=Zero6992&hide_rank=true&hide_title=true&include_all_commits=true&theme=onedark"/>
